@@ -1,0 +1,10 @@
+
+
+# ignore all .db and .log files
+.DS_Store
+*.db
+*.log
+
+# ignore directories named target/ or bin/ (anywhere in the tree)
+target/
+bin/
